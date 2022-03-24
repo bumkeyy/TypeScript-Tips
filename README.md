@@ -1,6 +1,6 @@
 # TypeScript-Tips
 
-A repo for TypeScript Tips for Koreans
+TypeScript Tips for Koreans
 
 ## This repo
 
@@ -9,7 +9,7 @@ A repo for TypeScript Tips for Koreans
 
 ### [TypeScript Tip - Matt Pocock(twitter)](https://twitter.com/mpocock1)
 
-[Matt Pocock](https://twitter.com/mpocock1)님이 트위터에서 정리해준 내용을 바탕으로 번역 및 작성되었습니다.
+[Matt Pocock](https://twitter.com/mpocock1)님이 트위터에서 정리해 준 내용을 바탕으로 번역 및 작성되었습니다.
 
 1. [객체에서 유니언 타입 추출하기](./docs/twitter/matt-pocock/1.how_to_derive_a_union_type_from_an_object.md) / [twitter](https://twitter.com/mpocock1/status/1497262298368409605)
 2. [in 연산자를 사용해서 유니언 타입 수정하기](./docs/twitter/matt-pocock/2.transform_a_union_to_another_union_using_in.md) / [twitter](https://twitter.com/mpocock1/status/1498284926621396992?s=20&t=oez-3xavZMDYePJp5sVHEw)
