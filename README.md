@@ -14,3 +14,7 @@ A repo for TypeScript Tips for Koreans
 1. [객체에서 유니언 타입 추출하기](./docs/twitter/matt-pocock/1.how_to_derive_a_union_type_from_an_object.md) / [twitter](https://twitter.com/mpocock1/status/1497262298368409605)
 2. [in 연산자를 사용해서 유니언 타입 수정하기](./docs/twitter/matt-pocock/2.transform_a_union_to_another_union_using_in.md) / [twitter](https://twitter.com/mpocock1/status/1498284926621396992?s=20&t=oez-3xavZMDYePJp5sVHEw)
 3. [함수 오버로딩과 제네릭을 이용해서 compose 함수 타입 선언하기](./docs/twitter/matt-pocock/4.Function_overloads_with_%20generics.md) / [twitter](https://twitter.com/mpocock1/status/1499730377337827336?s=20&t=CRwo0bNh33vEkVnUSNVcIA)
+
+### [Type Challenge](https://github.com/type-challenges/type-challenges)
+
+타입을 연습할 수 있는 레포입니다! :rocket::fire:
