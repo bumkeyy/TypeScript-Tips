@@ -20,3 +20,9 @@ TypeScript Tips for Koreans
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
 타입을 연습할 수 있는 레포입니다! :rocket::fire:
+
+## Other Repos related type utilities
+
+- [utility-types](https://github.com/piotrwitek/utility-types)
+- [ts-toolbelt](https://github.com/millsp/ts-toolbelt)
+- [$mol_type](https://github.com/hyoo-ru/mam_mol/tree/master/type)
