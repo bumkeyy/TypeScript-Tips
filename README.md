@@ -16,6 +16,7 @@ TypeScript Tips for Koreans
 3. [문자열 보간을 통해 타입 레벨에서 쿼리스트링 타입 추출하기](./docs/twitter/matt-pocock/3.decode_URL_search_params_using_string_interpolation.md) / [twitter](https://twitter.com/mpocock1/status/1499002040168636420?s=20&t=5k4HgmoEfoRrIio-TeoUag)
 4. [함수 오버로딩과 제네릭을 이용해서 `compose` 함수 타입 선언하기](./docs/twitter/matt-pocock/4.Function_overloads_with_%20generics.md) / [twitter](https://twitter.com/mpocock1/status/1499730377337827336?s=20&t=CRwo0bNh33vEkVnUSNVcIA)
 5. [`extends`를 활용해서 내부 요소 타입을 추론 및 자동 완성하기](./docs/twitter/matt-pocock/5.narrow_the_value_of_a_generic_to_enable_autocomplete_and_inference_using_extends.md) / [twitter](https://twitter.com/mpocock1/status/1500813765973053440?s=20&t=c8SpcS-HPqJWBjoWjggkTA)
+6. [`infer`를 이용해서 리액트 컴포넌트의 `Props` 타입 추론하기](./docs/twitter/matt-pocock/6.extract_props_from_react_component_using_infer.md) / [twitter](https://twitter.com/mpocock1/status/1501533441791193090?s=20&t=fDvb9ToAIUY1UGT2q2r8pA)
 
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
