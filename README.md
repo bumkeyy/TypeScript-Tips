@@ -18,6 +18,7 @@ TypeScript Tips for Koreans
 5. [`extends`를 활용해서 내부 요소 타입을 추론 및 자동 완성하기](./docs/twitter/matt-pocock/5.narrow_the_value_of_a_generic_to_enable_autocomplete_and_inference_using_extends.md) / [twitter](https://twitter.com/mpocock1/status/1500813765973053440?s=20&t=c8SpcS-HPqJWBjoWjggkTA)
 6. [`infer`를 이용해서 리액트 컴포넌트의 `Props` 타입 추론하기](./docs/twitter/matt-pocock/6.extract_props_from_react_component_using_infer.md) / [twitter](https://twitter.com/mpocock1/status/1501533441791193090?s=20&t=fDvb9ToAIUY1UGT2q2r8pA)
 7. [`generic`과 `keyof`을 사용해서 type-safe한 `Object.keys` 구현하기](./docs/twitter/matt-pocock/7.object_keys_using_generic_and_keyof.md) / [twitter](https://twitter.com/mpocock1/status/1502264005251018754?s=20&t=3SbKlwJvdPEkX2bveWrZ1A)
+8. [리액트 컴포넌트에서 제네릭 사용하기](./docs/twitter/matt-pocock/8.generic_in_react.md) / [twitter](https://twitter.com/mpocock1/status/1503352924537339904?s=20&t=GswnqXu4Fg7f-IK4WOZtAA)
 
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
