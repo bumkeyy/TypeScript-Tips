@@ -19,6 +19,7 @@ TypeScript Tips for Koreans
 6. [`infer`를 이용해서 리액트 컴포넌트의 `Props` 타입 추론하기](./docs/twitter/matt-pocock/6.extract_props_from_react_component_using_infer.md) / [twitter](https://twitter.com/mpocock1/status/1501533441791193090?s=20&t=fDvb9ToAIUY1UGT2q2r8pA)
 7. [`generic`과 `keyof`을 사용해서 type-safe한 `Object.keys` 구현하기](./docs/twitter/matt-pocock/7.object_keys_using_generic_and_keyof.md) / [twitter](https://twitter.com/mpocock1/status/1502264005251018754?s=20&t=3SbKlwJvdPEkX2bveWrZ1A)
 8. [리액트 컴포넌트에서 제네릭 사용하기](./docs/twitter/matt-pocock/8.generic_in_react.md) / [twitter](https://twitter.com/mpocock1/status/1503352924537339904?s=20&t=GswnqXu4Fg7f-IK4WOZtAA)
+9. [`generic`을 사용해서 `key remover` 함수 구현하기 (w/ `curried`)](./docs/twitter/matt-pocock/9.generic_in_key_remover.md) / [twitter](https://twitter.com/mpocock1/status/1504088070869884929?s=20&t=ZUtnL5S9W0eueCBBkl-CzA)
 
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
