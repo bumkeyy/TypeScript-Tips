@@ -20,6 +20,7 @@ TypeScript Tips for Koreans
 7. [`generic`과 `keyof`을 사용해서 type-safe한 `Object.keys` 구현하기](./docs/twitter/matt-pocock/7.object_keys_using_generic_and_keyof.md) / [twitter](https://twitter.com/mpocock1/status/1502264005251018754?s=20&t=3SbKlwJvdPEkX2bveWrZ1A)
 8. [리액트 컴포넌트에서 제네릭 사용하기](./docs/twitter/matt-pocock/8.generic_in_react.md) / [twitter](https://twitter.com/mpocock1/status/1503352924537339904?s=20&t=GswnqXu4Fg7f-IK4WOZtAA)
 9. [`generic`을 사용해서 `key remover` 함수 구현하기 (w/ `curried`)](./docs/twitter/matt-pocock/9.generic_in_key_remover.md) / [twitter](https://twitter.com/mpocock1/status/1504088070869884929?s=20&t=ZUtnL5S9W0eueCBBkl-CzA)
+10. [함수의 런타임 체크를 타입 레벨에서 검사하기](./docs/twitter/matt-pocock/10.check_type_level.md) / [twitter](https://twitter.com/mpocock1/status/1504802045794078723?s=20&t=ujhYUKWxMf3a2i7mx4h0lw)
 
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
