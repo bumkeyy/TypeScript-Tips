@@ -22,6 +22,7 @@ TypeScript Tips for Koreans
 9. [`generic`을 사용해서 `key remover` 함수 구현하기 (w/ `curried`)](./docs/twitter/matt-pocock/9.generic_in_key_remover.md) / [twitter](https://twitter.com/mpocock1/status/1504088070869884929?s=20&t=ZUtnL5S9W0eueCBBkl-CzA)
 10. [함수의 런타임 체크를 타입 레벨에서 검사하기](./docs/twitter/matt-pocock/10.check_type_level.md) / [twitter](https://twitter.com/mpocock1/status/1504802045794078723?s=20&t=ujhYUKWxMf3a2i7mx4h0lw)
 11. [`DeepPartial` 구현하기](./docs/twitter/matt-pocock/11.deep_partials.md) / [twitter](https://twitter.com/mpocock1/status/1505892984658743300?s=20&t=JLIlaCLOi3UZWHOAo3hLZA)
+12. [`LooseAutoComplete` 구현하기](./docs/twitter/matt-pocock/12.LooseAutocomplete.md) / [twitter](https://twitter.com/mpocock1/status/1506607945445949446?s=20&t=YYaQriqq48F_A4WMNX72LQ)
 
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
@@ -31,5 +32,5 @@ TypeScript Tips for Koreans
 
 - [utility-types](https://github.com/piotrwitek/utility-types)
 - [ts-toolbelt](https://github.com/millsp/ts-toolbelt)
-- [$mol_type](https://github.com/hyoo-ru/mam_mol/tree/master/type)
 - [type-fest](https://github.com/sindresorhus/type-fest)
+- [$mol_type](https://github.com/hyoo-ru/mam_mol/tree/master/type)
