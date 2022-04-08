@@ -23,6 +23,7 @@ TypeScript Tips for Koreans
 10. [함수의 런타임 체크를 타입 레벨에서 검사하기](./docs/twitter/matt-pocock/10.check_type_level.md) / [twitter](https://twitter.com/mpocock1/status/1504802045794078723?s=20&t=ujhYUKWxMf3a2i7mx4h0lw)
 11. [`DeepPartial` 구현하기](./docs/twitter/matt-pocock/11.deep_partials.md) / [twitter](https://twitter.com/mpocock1/status/1505892984658743300?s=20&t=JLIlaCLOi3UZWHOAo3hLZA)
 12. [`LooseAutoComplete` 구현하기](./docs/twitter/matt-pocock/12.LooseAutocomplete.md) / [twitter](https://twitter.com/mpocock1/status/1506607945445949446?s=20&t=YYaQriqq48F_A4WMNX72LQ)
+13. [`typeof`를 이용해서 모듈을 타입으로 가져오기](./docs/twitter/matt-pocock/13.type_module_using_typeof.md) / [twitter](https://twitter.com/mpocock1/status/1508408811635322883?s=20&t=jVoPfKOCP7khv9C6hIhtewhttps://twitter.com/mpocock1/status/1508408811635322883?s=20&t=jVoPfKOCP7khv9C6hIhtew)
 
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
