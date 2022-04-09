@@ -26,6 +26,8 @@ TypeScript Tips for Koreans
 13. [`typeof`를 이용해서 모듈을 타입으로 가져오기](./docs/twitter/matt-pocock/13.type_module_using_typeof.md) / [twitter](https://twitter.com/mpocock1/status/1508408811635322883?s=20&t=jVoPfKOCP7khv9C6hIhtewhttps://twitter.com/mpocock1/status/1508408811635322883?s=20&t=jVoPfKOCP7khv9C6hIhtew)
 14. [`declare`를 이용해서 global 타입을 선언하기](./docs/twitter/matt-pocock/14.declare_global.md) / [twitter](https://twitter.com/mpocock1/status/1509131700382715905?s=20&t=eHwePGAOfhlUG2xEq6vyZw)
 
+- [`generic` 사용하는 여러가지 방법](./docs/twitter/matt-pocock/generic_example.md) / [twitter](https://twitter.com/mpocock1/status/1508757718630342657?s=20&t=HnztxY7c5D32iY_-WaN6-w)
+
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
 타입을 연습할 수 있는 레포입니다! :rocket::fire:
