@@ -2,7 +2,15 @@
 
 [원문](https://twitter.com/mpocock1/status/1508757718630342657?s=20&t=R0ASuxvbXG_wUb6amQ6crw)
 
-## :one: 함수
+  - [1. 함수](#1-함수)
+  - [2. 유명 화살표 함수](#2-유명-화살표-함수)
+  - [3. 익명 화살표 함수](#3-익명-화살표-함수)
+  - [4. 클래스](#4-클래스)
+  - [5. 타입과 인터페이스](#5-타입과-인터페이스)
+  - [6. 객체 타입 내부에서 선언된 함수](#6-객체-타입-내부에서-선언된-함수)
+  - [7. `infer` 키워드](#7-infer-키워드)
+
+## 1. 함수
 
 함수 선언시에 `generic` 슬롯을 추가할 수 있습니다. `()` 앞에 위치하며 보통 input의 타입으로 사용됩니다.
 
@@ -19,7 +27,7 @@ const num = myFunction(20);
 
 [플레이그라운드 예제](https://www.typescriptlang.org/play?#code/GYVwdgxgLglg9mABAWwJ4DFzXmAPAFX1QAcBTAPgAooAuRQk0gShobMQG8AoRRAJ1JQQfJFADcXAL5cuEBAGcoiMCGSIAvCgxZYCSgCYADEy4B6U70QA9APxA)
 
-## :two: 유명 화살표 함수
+## 2. 유명 화살표 함수
 
 화살표 함수에도 동일한 구문을 적용할 수 있습니다.
 
@@ -36,7 +44,7 @@ const str = myArrowFunction('some string');
 
 [플레이그라운드 예제](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAtgTwIICcUgO4DECuZhQCW4MAvDADwAqVCADgKYA0AfABRQBcMN9DAlJ16MyLGAG8AUDBgoGUHCjAwokgL6TJoSLGgoy8ZGky58RcGwDkEEHAYw9hMAHNL-SQHoPMmQD0A-EA)
 
-## :three: 익명 화살표 함수
+## 3. 익명 화살표 함수
 
 함수를 리턴하는 익명의 함수나 화살표 함수에서도 `generic`을 사용할 수 있습니다.
 
@@ -56,7 +64,7 @@ const str = func('some string');
 //     ^ const str: "some string"
 ```
 
-## :four: 클래스
+## 4. 클래스
 
 생성자에서 인자의 타입을 추론하기 위해 `generic`을 사용할 수 있습니다.
 
@@ -75,7 +83,7 @@ const map = mapClass.map;
 
 [플레이그라운드 예제](https://www.typescriptlang.org/play?#code/MYGwhgzhAECyCeBhcUA8swAdYFMC2ARjgE4B80A3gFDTTAD2AdhAC7ECuwL9xAFJuwIgAlsGh4sALgBKOBsQAmqVsWGMA5gBo4WXIRKkAlJQC+VM1QbMW4rMkgwAvNEY4A7nCQoIvCmEnQAIzaBAEATCaGVJZMrLaY0M4SmPZQAHTJVAD0WbS0AHoA-EA)
 
-## :five: 타입과 인터페이스
+## 5. 타입과 인터페이스
 
 타입 / 인터페이스를 재사용하거나 동적으로 사용해야 할 때 `generic`을 사용할 수 있습니다.
 
@@ -97,7 +105,7 @@ type StringContainer = ValueContainer<string>;
 
 [플레이그라운드 예제](https://www.typescriptlang.org/play?#code/C4TwDgpgBAsiAq4IB54D4pQLxQEoQGMB7AJwBNkBnYEgSwDsBzAGinQCh3RI9DSyA8gDMAcgFcAtgCMIJStlgIkyepJkk07APRbMUAHoB+Tg2CyhAQwLQAahYA2YiAGEi9YBYazUGAN7tMADcHJwAuNnYAX05uaABlGgZGV3dPelkFO0cXNw8vEipEpk0dPSN2IA)
 
-## :six: 객체 타입 내부에서 선언된 함수
+## 6. 객체 타입 내부에서 선언된 함수
 
 타입 / 인터페이스 / 객체 선언 내부에 인라인으로 `generic`을 사용할 수 있습니다.
 
@@ -119,7 +127,7 @@ const str = obj.myFunc('some thing');
 
 [플레이그라운드 예제](https://www.typescriptlang.org/play?#code/C4TwDgpgBA8gRgKygXigbwFBSgWxAMQFcA7AYygC4oAeAFVvAgD4AKYC+xgShSak8gYAvhgykA9sQDOwKOMQV4SVJmx4iZKmx7ImwDAHoDAPQD8w0ROmyZAJxRzEAOnUlSLAORTxOaMAAWAJbEAOYeXIYG2NhmQA)
 
-## :seven: `infer` 키워드
+## 7. `infer` 키워드
 
 조건부 타입 검사내에서 `infer` 키워드를 사용해서 조건에 따라 `generic`을 추론할 수 있습니다.
 
