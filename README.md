@@ -11,6 +11,8 @@ TypeScript Tips for Koreans
 
 [Matt Pocock](https://twitter.com/mpocock1)님이 트위터에서 정리해 준 내용을 바탕으로 번역 및 작성되었습니다.
 
+> [`generic` 사용하는 여러가지 방법](./docs/twitter/matt-pocock/generic_example.md) / [twitter](https://twitter.com/mpocock1/status/1508757718630342657?s=20&t=HnztxY7c5D32iY_-WaN6-w)
+
 1. [객체에서 유니언 타입 추출하기](./docs/twitter/matt-pocock/1.how_to_derive_a_union_type_from_an_object.md) / [twitter](https://twitter.com/mpocock1/status/1497262298368409605)
 2. [`in` 연산자를 사용해서 유니언 타입 수정하기](./docs/twitter/matt-pocock/2.transform_a_union_to_another_union_using_in.md) / [twitter](https://twitter.com/mpocock1/status/1498284926621396992?s=20&t=oez-3xavZMDYePJp5sVHEw)
 3. [문자열 보간을 통해 타입 레벨에서 쿼리스트링 타입 추출하기](./docs/twitter/matt-pocock/3.decode_URL_search_params_using_string_interpolation.md) / [twitter](https://twitter.com/mpocock1/status/1499002040168636420?s=20&t=5k4HgmoEfoRrIio-TeoUag)
@@ -25,8 +27,8 @@ TypeScript Tips for Koreans
 12. [`LooseAutoComplete` 구현하기](./docs/twitter/matt-pocock/12.LooseAutocomplete.md) / [twitter](https://twitter.com/mpocock1/status/1506607945445949446?s=20&t=YYaQriqq48F_A4WMNX72LQ)
 13. [`typeof`를 이용해서 모듈을 타입으로 가져오기](./docs/twitter/matt-pocock/13.type_module_using_typeof.md) / [twitter](https://twitter.com/mpocock1/status/1508408811635322883?s=20&t=jVoPfKOCP7khv9C6hIhtewhttps://twitter.com/mpocock1/status/1508408811635322883?s=20&t=jVoPfKOCP7khv9C6hIhtew)
 14. [`declare`를 이용해서 global 타입을 선언하기](./docs/twitter/matt-pocock/14.declare_global.md) / [twitter](https://twitter.com/mpocock1/status/1509131700382715905?s=20&t=eHwePGAOfhlUG2xEq6vyZw)
+15. [`generic`을 이용해서 동적으로 타입을 구체화하기](./docs/twitter/matt-pocock/15.using_generic_dynamic.md) / [twitter](https://twitter.com/mpocock1/status/1509850662795989005?s=20&t=toAEeTeDUW0sIdckAPkcJQ)
 
-- [`generic` 사용하는 여러가지 방법](./docs/twitter/matt-pocock/generic_example.md) / [twitter](https://twitter.com/mpocock1/status/1508757718630342657?s=20&t=HnztxY7c5D32iY_-WaN6-w)
 
 ### [Type Challenge](https://github.com/type-challenges/type-challenges)
 
